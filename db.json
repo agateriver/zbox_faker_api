@@ -1,0 +1,14 @@
+{
+    "tickets":[
+        {
+            "no":"TN001",
+            "order_amount":10,
+            "ship_date": "2019-04-10",
+            "start_time":"2019-03-10",
+            "ticket_date":"2019-03-09",
+            "top_credentials":"W0001;X0001",
+            "part_no":"WX12030",
+            "description":"描述"
+        }
+    ]
+}
