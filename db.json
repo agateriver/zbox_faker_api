@@ -1,14 +1,577 @@
 {
-    "tickets":[
+  "status": "OK",
+  "ticket": {
+    "id": 1,
+    "no": "W190101.005",
+    "order_amount": 7,
+    "ship_date": "2019-03-15",
+    "start_time": "2019-02-25",
+    "ticket_date": "2019-02-19",
+    "credentials": "S1800005.003,W190101.005",
+    "part_no": "1260355002",
+    "description": "\u6253\u538b\u585e,2 7/8\" 10RD NU BOX/PIN,OD3.75\",ID1.25\",BALL1.50\",\u5f00\u542f\u538b\u529b3219-3528PSI[22.2-24.3]MPA,\u9002\u7528\u6e29\u5ea6150\u00b0C",
+    "is_finished": false,
+    "uuid": "a6bf468918e34e18832ad92ab9839f74"
+  },
+  "assembly": {
+    "id": 1,
+    "serial_no": 1,
+    "raw_code": null,
+    "uuid": "2ff8e87d549846e98c2fde8466c4e703"
+  },
+  "parts": [
+    {
+      "id": 1,
+      "uuid": "abf10864781e4c7aa3492c5abe75a3f9",
+      "item_no": 1,
+      "part_no": "1260355051",
+      "kind": "P/A",
+      "version": "B",
+      "description": "\u6253\u538b\u585e\u5916\u5957,2 7/8\" 10RD NU BOX/PIN",
+      "amount": 7,
+      "unit": "EA",
+      "batches": [
         {
-            "no":"TN001",
-            "order_amount":10,
-            "ship_date": "2019-04-10",
-            "start_time":"2019-03-10",
-            "ticket_date":"2019-03-09",
-            "top_credentials":"W0001;X0001",
-            "part_no":"WX12030",
-            "description":"描述"
+          "id": 1,
+          "uuid": "6715116982864bda9cbe1e6abb9217b3",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 2,
+          "uuid": "236a9e4d476147c6bd2cba916d63f223",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 3,
+          "uuid": "fc4fa61265a140b78a4087e2f222ec5d",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 4,
+          "uuid": "0f4de440192c4da38944acbde2d9fdbb",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 5,
+          "uuid": "b51113b37474420b9e1beaf3c2d5edac",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 6,
+          "uuid": "b25232f540e04032bb2a4183cff8960a",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 7,
+          "uuid": "f6418e683d694ce4a40df05dd2f1a646",
+          "batch_no": "",
+          "row_code": null
         }
-    ]
+      ]
+    },
+    {
+      "id": 2,
+      "uuid": "bd94447ddf9f49ada607633c4a5abc5f",
+      "item_no": 2,
+      "part_no": "1260355052",
+      "kind": "P/A",
+      "version": "B",
+      "description": "\u7403\u5ea7,ID1.250\",P110",
+      "amount": 7,
+      "unit": "EA",
+      "batches": [
+        {
+          "id": 8,
+          "uuid": "4eaf32e2d18a4e33bd6c32aa155a71a7",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 9,
+          "uuid": "2ae64d68a8af4f07882aea67bd424374",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 10,
+          "uuid": "5a1fa1def8044154810d7af5a30684bd",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 11,
+          "uuid": "8c1c59c290224189a0c0bb829a8d294f",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 12,
+          "uuid": "2bc01cddcbe44633b1f76c8453b5f82f",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 13,
+          "uuid": "7592469a9df1496b8a8c00efcb038ac6",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 14,
+          "uuid": "35d5e0cf1d984e19a8fce9cb709dcda0",
+          "batch_no": "",
+          "row_code": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "uuid": "5fd1b34a71884c2b81f6bb56752c26cf",
+      "item_no": 3,
+      "part_no": "10002",
+      "kind": "P/A",
+      "version": "B",
+      "description": "\u526a\u5207\u9500\u9489,3/8\"-16UN\u00d71/2\"LONG,\u9ec4\u94dcC36000,2800LBS,\u5168\u7259\u578b",
+      "amount": 35,
+      "unit": "EA",
+      "batches": [
+        {
+          "id": 15,
+          "uuid": "ba6f71608eed41b6b9201dd432f514cf",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 16,
+          "uuid": "6710461873e04477a74d74323da5f025",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 17,
+          "uuid": "93c1f689b679497f80e06073175feb1b",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 18,
+          "uuid": "b5f2c7149cc64beb81d1db4a75d5cded",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 19,
+          "uuid": "5ea7867529674c2bafe9bc542a6b8944",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 20,
+          "uuid": "da550d7fe2004882b0dda9f3e7ac73b5",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 21,
+          "uuid": "60acea04bab54d5a970d670e8983ba31",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 22,
+          "uuid": "249d3c74b72749809c11ad6ce3c40226",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 23,
+          "uuid": "b40cfe45317448d9af65bb537bd67f7a",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 24,
+          "uuid": "67b6f602b63345c88805e76d59bf668b",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 25,
+          "uuid": "6347425dcd8d4993a474c47dfd5e658d",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 26,
+          "uuid": "fdf4ec0077004b0381d23147b95c986e",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 27,
+          "uuid": "db1f7a9e65664ffc9a6c3e32dc69b71a",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 28,
+          "uuid": "93b3a0fc35144dbda6b9a2652b13a0a9",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 29,
+          "uuid": "fc8e621dffa54fb885dbb6df64fa5c17",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 30,
+          "uuid": "143531adbb6c401b933ff552cbfcfe80",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 31,
+          "uuid": "85e2a80f1320402ab5ad7d46e2f3f1f5",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 32,
+          "uuid": "f750f1f027c34a8d9c2e530f78155d10",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 33,
+          "uuid": "cd404d4ccb254ed9addd63b042a80c3f",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 34,
+          "uuid": "f33744d5f579480faf75b86aed794d29",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 35,
+          "uuid": "61a9c2b8aacb47eeb21b762c82116aa9",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 36,
+          "uuid": "21c2994b397b4086a665985545c10aba",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 37,
+          "uuid": "d57745f5cc9949829b82e5c0b2977808",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 38,
+          "uuid": "f30e6d05ec7e4fea875f9ec33e17b966",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 39,
+          "uuid": "bed1737ba5e24195ad14b28ead4e66e7",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 40,
+          "uuid": "77c0ebf2bae84cfdb328bf7f03347d8f",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 41,
+          "uuid": "d149aee2e3cb498e9e1aedf52327504e",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 42,
+          "uuid": "e58251d4bad649fbb41a20f4f8dc616f",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 43,
+          "uuid": "ba5b023d8fef4f80a11918e27227d4f4",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 44,
+          "uuid": "63b8110f066f457497c9709000bba4b5",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 45,
+          "uuid": "53d533bdbc6c4c9c8b57f96660768117",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 46,
+          "uuid": "67f73b2e85cc42f0a35d8f4212ed98ce",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 47,
+          "uuid": "3bd736b7dc5c4df4a6ef4a49094831fc",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 48,
+          "uuid": "e62e67a09c604fbca71c8e36cd4ddd23",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 49,
+          "uuid": "40610e9cf3ac4bd2b490958ccd917333",
+          "batch_no": "",
+          "row_code": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "uuid": "66425fe5279547eeaa5d5f678b694415",
+      "item_no": 4,
+      "part_no": "S00P569226",
+      "kind": "P/A",
+      "version": "A",
+      "description": "O\u5f62\u5bc6\u5c01\u5708,\u4e01\u8148\u6a61\u80f6,90 DURO,\uff03226",
+      "amount": 7,
+      "unit": "EA",
+      "batches": [
+        {
+          "id": 50,
+          "uuid": "f78cbfb538c942a095d3fdea169d9190",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 51,
+          "uuid": "55f2d2e9ac0b461aa6b36eac6861ab76",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 52,
+          "uuid": "3028aa52a1e64c1d9970d9bed8489989",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 53,
+          "uuid": "d0ba7dcec26048b9825925cc3c88625f",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 54,
+          "uuid": "d9d52de94fe548318f414dcb4ebf900b",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 55,
+          "uuid": "bd4e99b340bb4f96b82461d401382e41",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 56,
+          "uuid": "7266d5bd15254cd1b3960f90df17650f",
+          "batch_no": "",
+          "row_code": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "uuid": "da3afdb6c8e244db9b927816fdb944b9",
+      "item_no": 5,
+      "part_no": "1210015000",
+      "kind": "P/A",
+      "version": "A",
+      "description": "\u4e0d\u9508\u94a2\u7403,OD:1.500\",\u5bc6\u5ea67.71G/CM\u00b3",
+      "amount": 7,
+      "unit": "EA",
+      "batches": [
+        {
+          "id": 57,
+          "uuid": "e16baf74fa2741628fbb5a8cf8764743",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 58,
+          "uuid": "c4fceed6a99d4c98be5b8a548abac4de",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 59,
+          "uuid": "7b43d867231446d3ad39e51605af0253",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 60,
+          "uuid": "eb55d5860ebf443193c1d1e0e429f3f7",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 61,
+          "uuid": "0b9fe3ff530a410688e0988e01a3967c",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 62,
+          "uuid": "e7c45d6d9ab6443e86d3ba38fec114ab",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 63,
+          "uuid": "26403e3c46444d5bab41acdc292cba68",
+          "batch_no": "",
+          "row_code": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "uuid": "1ccf1545184f4c32b58a2d16d98f30c6",
+      "item_no": 6,
+      "part_no": "12407",
+      "kind": "P/A",
+      "version": "A",
+      "description": "\u87ba\u7eb9\u4fdd\u62a4\u59572 7/8\" 10RD NU \u516c\u6263,\u590d\u5408\u6750\u8d28,\u91c7\u8d2d\u53ca\u68c0\u9a8c\u53c2\u7167\u56fd\u5bb6\u6807\u51c6SY-T5991-2010\u5957\u7ba1\u3001\u6cb9\u7ba1\u3001\u7ba1\u7ebf\u7ba1\u53ca\u94bb\u6746\u87ba\u7eb9\u4fdd\u62a4\u5668",
+      "amount": 7,
+      "unit": "EA",
+      "batches": [
+        {
+          "id": 64,
+          "uuid": "d36b489044844f80982e35387f7e8d8d",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 65,
+          "uuid": "ce21630d6f394779a9e5b40b8a7dedf3",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 66,
+          "uuid": "accadeab0b674eb0bba33fd5491bd791",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 67,
+          "uuid": "809ac329b1984f3e8917ea10a31f1d9d",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 68,
+          "uuid": "113d45d1eafb4bbdbca4566b31f514c1",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 69,
+          "uuid": "8054f6e54b7d473584f24280e135865e",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 70,
+          "uuid": "2ce1cda8a1d0403dbd344123cd9e6de8",
+          "batch_no": "",
+          "row_code": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "uuid": "e3fd6946c84549b583ca0082df4c3b95",
+      "item_no": 7,
+      "part_no": "12408",
+      "kind": "P/A",
+      "version": "A",
+      "description": "\u87ba\u7eb9\u4fdd\u62a4\u59572 7/8\" 10RD NU \u6bcd\u6263,\u590d\u5408\u6750\u8d28,\u91c7\u8d2d\u53ca\u68c0\u9a8c\u53c2\u7167\u56fd\u5bb6\u6807\u51c6SY-T5991-2010\u5957\u7ba1\u3001\u6cb9\u7ba1\u3001\u7ba1\u7ebf\u7ba1\u53ca\u94bb\u6746\u87ba\u7eb9\u4fdd\u62a4\u5668",
+      "amount": 7,
+      "unit": "EA",
+      "batches": [
+        {
+          "id": 71,
+          "uuid": "5e109f5d8f1f4480b7d376fbea4c9397",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 72,
+          "uuid": "1c0e687528604a0c8ca0e8b4924c74d6",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 73,
+          "uuid": "0bede07bc37f4d52a5b45a585632a3f3",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 74,
+          "uuid": "1f53a9a13d254df2ad851f9fd28b4989",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 75,
+          "uuid": "9f15536b94f9481fb72be5f67128b3a0",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 76,
+          "uuid": "30d660beff8140bb840834cbe140b519",
+          "batch_no": "",
+          "row_code": null
+        },
+        {
+          "id": 77,
+          "uuid": "5c85f43a3c644ed9a51ce5217591b06f",
+          "batch_no": "",
+          "row_code": null
+        }
+      ]
+    }
+  ]
 }
